@@ -11,6 +11,11 @@ suma = numero_1+numero_2
 print(suma)
 
 """ 
+Estos son los comandos para sincronizar tu repositorio de github con tu VSC
+$ git remote add origin https://github.com/XXXX_XXX_XXX/XXX_XXXXX_XXX.git
+$ git branch -M main
+
+
 Estos son los comandos para poder sincronizar archivos a GitHub
 $ git add . #Este comando prepara todas las modificaciones 
 $ git commit -m "Ejemplo de mensaje para commit" #Este comando captura una snapshot de los cambios preparados en este momento
